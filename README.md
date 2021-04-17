@@ -3,6 +3,4 @@
 ### 현재 배우고 있는 것은 _______ 입니다.
 * 2021.04.16 ~ Git, GitHub
 
-![감사합니다](https://mblogthumb-phinf.pstatic.net/MjAyMDAzMzBfMjU0/MDAxNTg1NTc3MTc4NzY3.i9Rkdffs4p_Y1yLYS0yIxgGkQRClUrk4bxN8VANr6oUg.sNbauR1j9CnsJIyGMVTFTxQYEWZkoOKvVW_feHPzC24g.GIF.pikiro/IMG_0416.GIF?type=w800)
-## 감사합니다
-
+<center><img src = "https://mblogthumb-phinf.pstatic.net/MjAyMDAzMzBfMjU0/MDAxNTg1NTc3MTc4NzY3.i9Rkdffs4p_Y1yLYS0yIxgGkQRClUrk4bxN8VANr6oUg.sNbauR1j9CnsJIyGMVTFTxQYEWZkoOKvVW_feHPzC24g.GIF.pikiro/IMG_0416.GIF?type=w800" width = 250px)</center>
