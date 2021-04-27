@@ -1,5 +1,5 @@
 # 즐거운 하루 보내고 계신가요? <br>`시비월`입니다. 
-### 시간이 `눈🙈깜짝할🙉새` 순식간에 흐르네요. 멋대로 흐르도록 둘 수 없어 기록으로 붙잡는 `>>시비월<<`의 공간에 오신 것을 환영합니다. 
+### 시간이 `눈🙈깜짝할🙉새` 순식간에 흐르네요. 멋대로 흐르도록 둘 수 없어 기록으로 붙잡는 `>>팅커링<<`의 공간에 오신 것을 환영합니다. 
 ### 현재 배우고 있는 강의는 _______ 입니다.
 * 2021.04.19 ~ [Dream Coding](https://academy.dream-coding.com/courses/browser101) 프론트엔드 필수 브라우저 101 - Ellie
 * 2021.04.26 ~ [Linked List](https://youtube.com/playlist?list=PLjSkJdbr_gFZQp0KEoo0Y4KkCI5YqxtjZ) - 엔지니어대한민국
